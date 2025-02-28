@@ -1,3 +1,6 @@
+# Explicit No versioning
+_NO_VERSIONING/
+
 # Logs
 logs
 *.log
